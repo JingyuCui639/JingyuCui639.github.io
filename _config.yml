@@ -40,3 +40,11 @@ author:
 
   # Repositories
   github: "JingyuCui639"
+
+  defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+
