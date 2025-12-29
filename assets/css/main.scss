@@ -1,0 +1,14 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Make the author avatar larger */
+.author__avatar img {
+  max-width: 220px;  /* try 180–260 */
+}
+
+/* Optional: make it a perfect circle */
+.author__avatar img {
+  border-radius: 50%;
+}
