@@ -42,9 +42,9 @@ author:
   github: "JingyuCui639"
 
 defaults:
-- scope:
-    path: ""
-  values:
-    layout: single
-    author_profile: true
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
 
