@@ -1,0 +1,30 @@
+title: "Jingyu Cui"
+email: "jingyu.cui@yale.edu"
+description: "Postdoctoral Associate (Biostatistics) | Measurement error, missing data, variable selection, adaptive designs (LAGO)"
+url: "https://YOURUSERNAME.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+minimal_mistakes_skin: "default"
+markdown: kramdown
+
+header_pages:
+  - _pages/about.md
+  - _pages/publications.md
+  - _pages/talks.md
+  - _pages/teaching.md
+  - _pages/cv.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
