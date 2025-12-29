@@ -1,6 +1,8 @@
 ---
 title: "Talks & Presentations"
 permalink: /talks/
+layout: single
+author_profile: true
 ---
 
 ## 2025
