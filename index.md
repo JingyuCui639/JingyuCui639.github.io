@@ -9,7 +9,7 @@ permalink: /
 **Postdoctoral Associate**, Yale School of Public Health (CMIPS), Department of Biostatistics  
 New Haven, CT, USA  
 Email: [jingyu.cui@yale.edu](mailto:jingyu.cui@yale.edu)  
-Links: [Google Scholar](#) · [GitHub](#) · [CV](/cv/)
+Links: [Google Scholar](#) · [GitHub](#) · [CV](/CV.pdf)
 
 ---
 
