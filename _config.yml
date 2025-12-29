@@ -11,6 +11,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-include-cache
+
+include:
+  - _pages
 
 minimal_mistakes_skin: "default"
 markdown: kramdown
