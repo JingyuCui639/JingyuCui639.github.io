@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale: "en-US"
-title: "Jingyu Cui"
+title: "Home"
 title_separator: "-"
 name: &name "Jingyu Cui"
 description: &description "Jingyu Cui's academic portfolio"
