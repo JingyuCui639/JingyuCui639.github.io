@@ -5,7 +5,7 @@
 
 /* Make the author avatar larger */
 .author__avatar img {
-  max-width: 250px;  /* try 180–260 */
+  max-width: 240px;  /* try 180–260 */
 }
 
 /* Optional: make it a perfect circle */
@@ -14,4 +14,4 @@
 }
 
 /* Make all page fonts smaller */
-html { font-size: 14px; }   /* default is ~16px; try 14–15 */
+html { font-size: 15px; }   /* default is ~16px; try 14–15 */
