@@ -1,10 +1,16 @@
+# Basic Site Settings
+locale: "en-US"
 title: "Jingyu Cui"
-email: "jingyu.cui@yale.edu"
-description: "Postdoctoral Associate (Biostatistics) | Measurement error, missing data, variable selection, adaptive designs (LAGO)"
+title_separator: "-"
+name: &name "Jingyu Cui"
+description: &description "Jingyu Cui's academic portfolio"
 url: "https://jingyucui639.github.io"
 baseurl: ""
+repository: "JingyuCui639/JingyuCui639.github.io"
 
+# Theme
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"   # options: default, air, etc.
 
 plugins:
   - jekyll-remote-theme
@@ -16,19 +22,21 @@ plugins:
 include:
   - _pages
 
-minimal_mistakes_skin: "default"
-markdown: kramdown
+# Site Author (sidebar / profile)
+author:
+  avatar: "/assets/img/Rhode.png"   # put Rhode.png in assets/img/
+  name: *name
+  pronouns: "she/her"
+  bio: "Hello! Welcome to my page!"
+  location: "New Haven, CT, USA"
+  employer: "Yale School of Public Health"
+  uri:
+  email: "jingyu.cui@yale.edu"
 
-header_pages:
-  - _pages/about.md
-  - _pages/publications.md
-  - _pages/talks.md
-  - _pages/teaching.md
-  - _pages/cv.md
+  # Academic websites
+  googlescholar: "https://scholar.google.com/citations?user=7hqKH_gAAAAJ&hl=zh-CN"
+  orcid: "https://orcid.org/0000-0002-8073-1422"
+  researchgate: "https://www.researchgate.net/profile/Jingyu-Cui-10"
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: single
-      author_profile: false
+  # Repositories
+  github: "JingyuCui639"
