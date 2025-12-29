@@ -1,6 +1,8 @@
 ---
 title: "Publications"
 permalink: /publications/
+layout: single
+author_profile: true
 ---
 
 ## Peer-reviewed publications and submissions
