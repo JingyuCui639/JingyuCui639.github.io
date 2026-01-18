@@ -25,5 +25,5 @@ My research areas include, but are not limited to
 - Measurement Error; Missing Values; Variable Selection; High-Dimensional Analysis; Adaptive Study Design; Meta-Analysis; Mediation-Analysis; Machine Learning
 
 ## Selected service
-- Journal reviewer: *Journal of the American Statistical Association*, *Biometrics*, *Journal of Multivariate Analysis* (2025)
+- Journal reviewer: *Journal of the American Statistical Association*, *Biometrics*, *Journal of Multivariate Analysis*
 - Session Chair, JSM 2025: *Causal Inferences and Robust Estimators*
