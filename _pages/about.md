@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Short bio
-I am a Postdoctoral Associate in the Department of Biostatistics at Yale School of Public Health (CMIPS), supervised by Prof. Donna Spiegelman. My research develops statistical methods for complex data settings involving measurement error and misclassification, missingness, and structured/high-dimensional regression, with a growing focus on adaptive study designs (Learn-As-you-GO / LAGO) for multi-component interventions and stepped-wedge trials.
+I am a Postdoctoral Associate in the Center for Methods in Implementation and Prevention Science (CMIPS) and the Department of Biostatistics at the Yale School of Public Health, supervised by Prof. Donna Spiegelman. My research develops statistical methods for complex data settings involving measurement error, missing data, and high-dimensional analysis, with a growing focus on adaptive study designs for multi-component interventions across diverse clinical trial settings.
 
 ## Current position
 **Postdoctoral Associate**, Yale School of Public Health — *Feb 2024–present*  
@@ -21,11 +21,8 @@ Supervisor: Prof. Donna Spiegelman
   Supervisors: Prof. Renjun Ma and Prof. Hasan, M. Tariqul
 
 ## Research areas
-- Measurement error / misclassification bias correction
-- Missing data methods
-- Multivariate regression and variable selection
-- Adaptive designs for complex interventions (LAGO; stepped-wedge trials)
-- Meta-analysis methodology
+My research areas include, but are not limited to
+- Measurement Error; Missing Values; Variable Selection; High-Dimensional Analysis; Adaptive Study Design; Meta-Analysis; Mediation-Analysis; Machine Learning
 
 ## Selected service
 - Journal reviewer: *Journal of the American Statistical Association*, *Biometrics*, *Journal of Multivariate Analysis* (2025)
