@@ -1,11 +1,10 @@
 ---
-title: "Teaching"
+title: "Teaching Experience"
 permalink: /teaching/
 layout: single
 author_profile: true
 ---
 
-## Teaching experience
 
 ### Teaching Experience at Western University
 
