@@ -15,15 +15,15 @@ Supervisor: Prof. Donna Spiegelman
 ## Current work
 1. Working on the NIH-funded grant “Learn-As-you-Go (LAGO): An Innovative Adaptive Design for Multi-Component Intervention Studies in Cardiology and Public Health,” led by Principal Investigator Prof. Donna Spiegelman.
 
-(a). Collaborating with the Uganda team to analyze PULESA data from a stepped-wedge cluster randomized trial (SW-CRT) evaluating implementation strategies to integrate hypertension care into HIV clinics in Kampala and Wakiso District.
+- Collaborating with the Uganda team to analyze PULESA data from a stepped-wedge cluster randomized trial (SW-CRT) evaluating implementation strategies to integrate hypertension care into HIV clinics in Kampala and Wakiso District.
 
-(b). Collaborating with the Nigeria team to analyze MAP-IT data from an SW-CRT evaluating a pragmatic implementation strategy for hypertension–HIV integration.
+- Collaborating with the Nigeria team to analyze MAP-IT data from an SW-CRT evaluating a pragmatic implementation strategy for hypertension–HIV integration.
 
-(c). Drafting a methodological paper on applying LAGO to stepped-wedge trials with center-level random effects: Analysis of “Learn-As-you-Go” (LAGO) in Stepped-Wedge Designs with Center Random Effects.
+- Drafting a methodological paper on applying LAGO to stepped-wedge trials with center-level random effects: Analysis of “Learn-As-you-Go” (LAGO) in Stepped-Wedge Designs with Center Random Effects.
 
 2. Working on the NIH-funded grant “New Epidemiologic Methods for Reducing Measurement Error and Misclassification Bias in Cancer Epidemiology,” led by Prof. Molin Wang and Prof. Donna Spiegelman.
 
-(a). Dissemination: developing and delivering short courses and workshops to disseminate the proposed methods; proposals have been accepted by ENAR and SER.
+- Dissemination: developing and delivering short courses and workshops to disseminate the proposed methods; proposals have been accepted by ENAR and SER.
 
 3. Working on a project in meta-analysis focused on integrating direct-effect measures to estimate total effects.
 
