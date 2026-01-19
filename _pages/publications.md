@@ -22,4 +22,4 @@ author_profile: true
 - **Cui, J.**, Abdo, M., Spiegelman, D., Lok, J. L., and Zhou, X. (2025). Learn-As-you-GO (LAGO) design in PULESA-Uganda: A stepped-wedge trial to integrate HIV and hypertension services.
 - Bing, A., Bui, M. T., **Cui, J.**, Nevo, D., Spiegelman, D., and Lok, J. L. (2025). LAGO: an R package for intervention optimizations in Learn-As-you-GO (LAGO) trials.
 
-<!--> Tip: Replace/append links like `[PDF](...)`, `[DOI](...)`, or `[arXiv](...)` as you add them.--!>
+<!-- Tip: Replace/append links like `[PDF](...)`, `[DOI](...)`, or `[arXiv](...)` as you add them.--!>
