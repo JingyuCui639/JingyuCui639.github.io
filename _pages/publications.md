@@ -11,7 +11,7 @@ author_profile: true
 2. **Cui, J.** and Yi, G. Y. (2025). Multivariate regression with measurement error: bias analysis and estimation. *Journal of Nonparametric Statistics*, 37(4), 1257–1297.
 3. Wang, S., Bai, C., Li, G., **Cui, J.**, Mao, R., Tian, J., Lv, D., Zhang, T., Liu, Y., Feng, Z., & Zhu, H. (2025). Dietary vitamin E intake, life expectancy, and mortality risk among adults in the United Kingdom and the United States. *International Journal of Surgery.* Advance online publication.(https://doi.org/10.1097/JS9.0000000000004067)
 4. **Cui, J.** and Yi, G. Y. (2024). Variable selection in multivariate regression models with measurement error in covariates. *Journal of Multivariate Analysis*, 202, 105299.
-5. Cui, J., Lu, J., Weng, Y., Yi, G. Y., and He, W. (2022). COVID-19 impact on mental health. *BMC Medical Research Methodology*, 22(15), 1–11.
+5. **Cui, J**., Lu, J., Weng, Y., Yi, G. Y., and He, W. (2022). COVID-19 impact on mental health. *BMC Medical Research Methodology*, 22(15), 1–11.
 6. Liu, D., Du, Y., Charvadeh, Y. K., **Cui, J.**, Chen, L.-P., Deng, G., Zhang, Q., Cai, K., He, J., He, W., et al. (2020). A real-time and interactive web-based platform for visualizing and analyzing COVID-19 in Canada. *International Journal of Statistics and Probability*, 9(5), 23–29.
 7. Spiegelman, D., Xu, D., Bing, A., Tong, G., Abdo, M., **Cui, J.**, Goss, C., Kiggundu, J. B., Longenecker, C. T., Nelson, L., Semitala, F., Zhou, X., & Lok, L. J. (2025). Optimizing complex health intervention packages through the Learn-As-you-GO (LAGO) design. Under revision at *Research Methods and Reporting (RMR)*.
 
