@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Teaching Experience at Western University
+## Western University
 
 - **Teaching Assistant, Statistical Sciences 2141A/B: Applied Probability and Statistics for Engineers**
   - Prepared course materials and led tutorial sessions to reinforce lecture content and support student learning.  
@@ -22,13 +22,13 @@ author_profile: true
   - Prepared introductory materials and demo Python code on GitHub and presented the workshop.  
     - [GitHub](https://github.com/JingyuCui639/Python-Workshop-WDSS)
 
-## Teaching Experience at Yale University
+## Yale University
 
 - **Lecturer, Big Data Summer Immersion at Yale (BDSY)**
   - Prepared slides and delivered lectures on statistical topics (e.g., logistic regression, linear regression).  
     - [Link for lecture slides](https://drive.google.com/file/d/1wiLjXyF-VD0w9qeg1dOa5DL18PKL67uV/view?usp=sharing)
 
-## Workshop Teaching for Upcoming Conferences
+## Upcoming Conferences
 
 - **Workshop title:** *Measurement Error Models in Action: the Latest Methods and Their Applications in Nutrition and Environmental Health*  
   - [Link for proposal](https://docs.google.com/document/d/1Z1jKJcc4_xl9b-unUh3L_aq1qOtKsEGk/edit?usp=sharing&ouid=115624225224620671558&rtpof=true&sd=true)
