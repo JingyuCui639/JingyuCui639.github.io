@@ -17,15 +17,15 @@ author_profile: true
 
 ## 2022
 - **Talk** — *Multivariate regression model with measurement error*  
-  Annual Meeting of the Statistical Society of Canada (SSC), Online.  
+  Statistical Society of Canada (SSC) Annual Meeting, Online.  
 - **Case study** — *Developing quantitative and qualitative evaluations for physician performance in critical care*  
-  SSC Annual Meeting (Case Study), Online.
+  SSC Annual Meeting, Online.
 
 ## 2021
 - **Talk** — *Penalized low-rank matrix regression for studying brain connectivity patterns*  
   SSC Annual Meeting, Online.  
 - **Case study** — *Impact of COVID-19 on mental health: a longitudinal study using penalized logistic regression*  
-  SSC Annual Meeting (Case Study), Online.
+  SSC Annual Meeting, Online.
 
 ## 2020
 - **Talk** — *Influence of spatial noise covariance on Bayesian analysis of human functional brain imaging data*  
