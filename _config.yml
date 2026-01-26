@@ -24,7 +24,7 @@ include:
 
 # Site Author (sidebar / profile)
 author:
-  avatar: "/assets/img/Rhode.png"   # put Rhode.png in assets/img/
+  avatar: "/assets/img/head photo.jpg"   # put Rhode.png in assets/img/
   name: *name
   pronouns: "she/her"
   bio: "Hello! Welcome to my page!"
