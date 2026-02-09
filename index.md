@@ -22,4 +22,4 @@ Links: [Google Scholar](https://scholar.google.com/citations?user=7hqKH_gAAAAJ&h
 I am a Postdoctoral Associate at Yale School of Public Health, working with Prof. Donna Spiegelman on NIH-funded projects, including methodological development for the Learn-As-you-GO (LAGO) design and applications to stepped-wedge trials (e.g., PULESA-Uganda and MAP-IT).
 
 ## Highlights
-- Our research group will present a workshop titled “Measurement Error Models in Action: The Latest Methods and Their Applications in Nutrition and Environmental Health” at the Eastern North American Region (ENAR) annual meeting and the Society for Epidemiologic Research (SER) annual meeting in 2026. We warmly welcome your participation!
+- Our research group will present a workshop titled “Measurement Error Models in Action: The Latest Methods and Their Applications in Nutrition and Environmental Health” at the Eastern North American Region (ENAR) annual meeting and the Society for Epidemiologic Research (SER) annual meeting in 2026. Details can be found [here](https://www.enar.org/meetings/spring2026/profdev/short_courses.cfm). We warmly welcome your participation!
